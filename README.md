@@ -16,6 +16,8 @@ Além disso, tive dificuldade e não consegui criar um regex para o CNJ.
 
 `git clone https://github.com/joaovfraga/ConsultaProcessualJusBrasil_frontend` <br>
 `npm install` <br>
+`npm start` <br>
+
 
 ## Por fim:
 Visite: http://localhost:3000 <br>
