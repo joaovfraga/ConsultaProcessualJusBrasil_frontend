@@ -1,25 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+// import { BasicTable } from "./BasicTable";
+import { APIDataTable } from "./table/data-table";
+import "./table/css/style.css";
+import "./table/css/table.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <BasicTable /> */}
+      <APIDataTable />
     </div>
   );
 }
-
-export default App;
