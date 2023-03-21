@@ -12,5 +12,10 @@ Tive um pouco de dificuldade em montar o backend do projeto e tamém para integr
 
 Além disso, tive dificuldade e não consegui criar um regex para o CNJ.
 
+## Como executar a aplicação:
+
+`git clone https://github.com/joaovfraga/ConsultaProcessualJusBrasil_frontend` <br>
+`npm install` <br>
+
 ## Por fim:
 Visite: http://localhost:3000 <br>
