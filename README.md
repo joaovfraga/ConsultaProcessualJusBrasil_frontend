@@ -13,8 +13,7 @@ Sendo assim, não tive tempo hábil dentro desses 7 dias, dados para o desafio, 
 
 Além disso, tive dificuldade e não consegui criar um regex para o CNJ.
 
-🚩 Depois de enviar o desafio, comecei a refazer todo o frontend que havia perdido: <a href="https://github.com/joaovfraga/ConsultaProcessualJusBrasil_frontend_v2">Clique aqui para ver</a>. Aplicando conceitos do React como: componentização, páginas, estilização global, rotas e etc, para assim, ter uma aplicação completa com um bom deisgn e melhor experiência do usuário. 
-
+🚩 Depois de enviar o desafio, comecei a refazer todo o frontend que havia perdido: <a href="https://github.com/joaovfraga/ConsultaProcessualJusBrasil_frontend_v2">Clique aqui para ver</a>. Aplicando conceitos do React como: componentização, páginas, estilização global, rotas e etc, para assim, ter uma aplicação completa com um bom design e melhor experiência do usuário. 
 
 ## Como executar a aplicação:
 
