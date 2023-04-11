@@ -15,6 +15,8 @@ Além disso, tive dificuldade e não consegui criar um regex para o CNJ.
 
 🚩 Depois de enviar o desafio, comecei a refazer todo o frontend que havia perdido: <a href="https://github.com/joaovfraga/ConsultaProcessualJusBrasil_frontend_v2">Clique aqui para ver</a>. Aplicando conceitos do React como: componentização, páginas, estilização global, rotas e etc, para assim, ter uma aplicação completa com um bom design e melhor experiência do usuário. 
 
+🚩🚩 Refiz o projeto e coloquei tudo em um repositório: <a href="https://github.com/joaovfraga/ConsultaProcessualJusBrasil_finalVersion">Clique aqui para ver</a>. Troquei o Postgres por sqlite.
+
 ## Como executar a aplicação:
 
 `git clone https://github.com/joaovfraga/ConsultaProcessualJusBrasil_frontend` <br>
